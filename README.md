@@ -67,7 +67,6 @@
 ![LangSmith](https://img.shields.io/badge/LangSmith-000?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge)
 
 ---
 
