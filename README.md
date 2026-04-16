@@ -1,6 +1,8 @@
 # Hi, I'm Nishath Ahamed 👋
 
-🚀 Software Engineer specializing in Backend Systems & AI/LLM Applications  
+**Software Engineer specialising in Backend Systems & AI/LLM Applications**
+
+I'm passionate about building agentic AI systems, designing Retrieval‑Augmented Generation pipelines, and developing production‑ready backend APIs. Currently rebuilding my GitHub with production‑grade AI & backend projects.
 
 ---
 
@@ -11,8 +13,8 @@
 - LangGraph  
 - LangSmith  
 - OpenAI  
-- RAG (Retrieval-Augmented Generation)  
-- Multi-Agent Systems  
+- RAG (Retrieval‑Augmented Generation)  
+- Multi‑Agent Systems  
 - Tool Calling & Context Engineering  
 
 ### ⚙️ Backend Engineering
@@ -31,50 +33,41 @@
 
 ---
 
-## 🧠 What I Do
+## 🏗️ What I Do
 
-- Build **Agentic AI systems using LangGraph**
-- Design **RAG pipelines with real-world data**
-- Develop **LLM-powered backend systems**
-- Implement **safe, production-ready AI workflows**
-
----
-
-## 🔥 Highlight Projects
-
-### 🤖 Multi-Agent HR AI Assistant
-- Supervisor + Schema + Query Agents  
-- Safe SQL generation with validation  
-- Human-in-the-loop disambiguation  
-
-### 📧 Ambient Email AI Assistant
-- Email monitoring + approval workflows  
-- Built with LangGraph + OpenAI + FastAPI  
-
-### 📊 AI-driven Content Moderation
-- Context-aware filtering using ML/NLP  
-- Reddit domain research project  
+- Build **agentic AI systems using LangGraph**
+- Design **RAG pipelines** with real‑world data
+- Develop **LLM‑powered backend systems**
+- Implement **production‑ready backend + AI integrations**
 
 ---
 
-## 🧩 Tech Badges
+## 📊 GitHub Stats & Languages
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge)
-![Spring WebFlux](https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge)
-![Spring AI](https://img.shields.io/badge/SpringAI-6DB33F?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-000?style=for-the-badge)
-![LangSmith](https://img.shields.io/badge/LangSmith-000?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
+<!-- Dynamic stats cards – these auto‑update with your GitHub activity:contentReference[oaicite:2]{index=2} -->
+![Nishath's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishathmnha&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishathmnha&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nishathmnha)
+
+---
+
+## 📁 Featured Repositories
+
+Use these cards to highlight your projects. Replace `REPO_NAME` with your actual repository names. These “pin” cards let you showcase more than GitHub’s default pinned‑repo limit:contentReference[oaicite:3]{index=3}.
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=nishathmnha&repo=REPO_NAME)](https://github.com/nishathmnha/REPO_NAME)
+
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=nishathmnha&repo=ANOTHER_REPO)](https://github.com/nishathmnha/ANOTHER_REPO)
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/ahamed-nishath  
-- Email: nishathmnha2000@gmail.com  
+- [LinkedIn](https://linkedin.com/in/ahamed-nishath)
+- **Email:** nishathmnha2000@gmail.com
 
 ---
 
-⭐ Focused on building real-world AI systems with production-grade backend engineering
+⭐ *Feel free to explore my repositories.  New AI & backend projects coming soon!*
