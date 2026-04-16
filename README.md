@@ -2,7 +2,7 @@
 
 **Software Engineer specialising in Backend Systems & AI/LLM Applications**
 
-I'm passionate about building agentic AI systems, designing Retrieval‑Augmented Generation pipelines, and developing production‑ready backend APIs. Currently rebuilding my GitHub with production‑grade AI & backend projects.
+Thanks for stopping by! I’m passionate about building agentic AI systems, designing Retrieval‑Augmented Generation pipelines, and crafting production‑ready backend APIs. I’m currently rebuilding my GitHub from scratch, so you can expect fresh, real‑world AI & backend projects to appear here soon.
 
 ---
 
@@ -35,31 +35,27 @@ I'm passionate about building agentic AI systems, designing Retrieval‑Augmente
 
 ## 🏗️ What I Do
 
-- Build **agentic AI systems using LangGraph**
-- Design **RAG pipelines** with real‑world data
-- Develop **LLM‑powered backend systems**
-- Implement **production‑ready backend + AI integrations**
+- Build **agentic AI systems using LangGraph**  
+- Design **RAG pipelines** with real‑world data  
+- Develop **LLM‑powered backend systems**  
+- Implement **production‑ready backend + AI integrations**  
 
 ---
 
 ## 📊 GitHub Stats & Languages
 
-<!-- Dynamic stats cards – these auto‑update with your GitHub activity:contentReference[oaicite:2]{index=2} -->
 ![Nishath's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishathmnha&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishathmnha&layout=compact)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=nishathmnha)
 
 ---
 
-## 📁 Featured Repositories
+## 📁 Favourite Projects
 
-Use these cards to highlight your projects. Replace `REPO_NAME` with your actual repository names. These “pin” cards let you showcase more than GitHub’s default pinned‑repo limit:contentReference[oaicite:3]{index=3}.
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=nishathmnha&repo=REPO_NAME)](https://github.com/nishathmnha/REPO_NAME)
-
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=nishathmnha&repo=ANOTHER_REPO)](https://github.com/nishathmnha/ANOTHER_REPO)
+<!-- Only list projects that exist; leave this section empty until you create repos -->
+<!-- Example: -->
+<!-- - **HR AI Assistant** — [Multi‑agent HR assistant built with LangGraph, Spring Boot & RAG](https://github.com/nishathmnha/hr-ai-assistant) -->
+<!-- - **RAG Search API** — [FastAPI + LangChain service for retrieval‑augmented question answering](https://github.com/nishathmnha/rag-search-api) -->
 
 ---
 
@@ -70,4 +66,4 @@ Use these cards to highlight your projects. Replace `REPO_NAME` with your actual
 
 ---
 
-⭐ *Feel free to explore my repositories.  New AI & backend projects coming soon!*
+⭐ *If you like what you see, feel free to star a repo or reach out — I’m always up for collaborating on interesting projects!*
