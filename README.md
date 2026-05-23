@@ -40,24 +40,6 @@ Thanks for stopping by! I’m passionate about building agentic AI systems, desi
 - Develop **LLM‑powered backend systems**  
 - Implement **production‑ready backend + AI integrations**  
 
----
-
-## 📊 GitHub Stats & Languages
-
-![Nishath's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishathmnha&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishathmnha&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=nishathmnha)
-
----
-
-## 📁 Favourite Projects
-
-<!-- Only list projects that exist; leave this section empty until you create repos -->
-<!-- Example: -->
-<!-- - **HR AI Assistant** — [Multi‑agent HR assistant built with LangGraph, Spring Boot & RAG](https://github.com/nishathmnha/hr-ai-assistant) -->
-<!-- - **RAG Search API** — [FastAPI + LangChain service for retrieval‑augmented question answering](https://github.com/nishathmnha/rag-search-api) -->
-
----
 
 ## 📫 Connect With Me
 
