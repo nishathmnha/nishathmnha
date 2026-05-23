@@ -43,7 +43,7 @@ Thanks for stopping by! I’m passionate about building agentic AI systems, desi
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://linkedin.com/in/ahamed-nishath)
+- **LinkedIn:** www.linkedin.com/in/ahamed-nishath
 - **Email:** nishathmnha2000@gmail.com
 
 ---
